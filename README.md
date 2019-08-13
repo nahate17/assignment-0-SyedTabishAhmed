@@ -12,6 +12,6 @@ Once you click on the link, you will be taken to a page that asks if you want to
 
 #### Accepting this assignment will give you access to the assginment-0-lschoeneman repository in the niu-csc-340 organization on github
 
-The primary thing to look for is that YOUR github login is after the dash in the specified repository.  That is, lschoeneman in this case.  DO NOTY Accept this assignment if the login name is wrong.
+The primary thing to look for is that **YOUR** github login is after the dash in the specified repository.  That is, lschoeneman in this case.  **DO NOT** Accept this assignment if the login name is wrong.
 
 After you accept the assignment you should see a message indicating you are ready to go!
