@@ -3,6 +3,10 @@
 For this assignment you will not need to write any code.
 You will only need to check out the code from the Git repository, make a few changes to asssignment0.cc
 
+## Initial Setup
+* Sign up with Github
+* Goto https://forms.gle/YPdTABPXSeKwer6m6 and fill out this form
+
 ### Assignment Notes:
 You will be emailed a link to Github Classroom for this assignment.  Copy the link to your browser to accept this assignment.  It will look something like:
 
