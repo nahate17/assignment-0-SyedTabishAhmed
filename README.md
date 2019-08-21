@@ -10,7 +10,7 @@ https://classroom.github.com/assignment-invitations/.......
 
 Once you click on the link, you will be taken to a page that asks if you want to accept this assignment.  Read the message and ensure it says somthing similar to:
 
-#### Accepting this assignment will give you access to the assginment-0-lschoeneman repository in the niu-csc-340 organization on github
+#### Accepting this assignment will give you access to the assignment-0-lschoeneman repository in the niu-csc-340 organization on github
 
 The primary thing to look for is that **YOUR** github login is after the dash in the specified repository.  That is, lschoeneman in this case.  **DO NOT** Accept this assignment if the login name is wrong.
 
