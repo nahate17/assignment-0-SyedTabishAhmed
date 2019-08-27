@@ -8,9 +8,8 @@ You will only need to check out the code from the Git repository, make a few cha
 * Goto https://forms.gle/YPdTABPXSeKwer6m6 and fill out this form
 
 ### Assignment Notes:
-You will be emailed a link to Github Classroom for this assignment.  Copy the link to your browser to accept this assignment.  It will look something like:
-
-https://classroom.github.com/assignment-invitations/.......
+Your initial repository set up is at : 
+https://classroom.github.com/a/5KgyYALZ
 
 Once you click on the link, you will be taken to a page that asks if you want to accept this assignment.  Read the message and ensure it says somthing similar to:
 
